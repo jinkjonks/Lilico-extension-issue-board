@@ -1,6 +1,6 @@
 ---
-name: Lilico Alpha Bug report
-about: Create a report to help us improve
+name: Lilico Alpha Bug Report
+about: Report an bug to help us improve Lilico
 title: ''
 labels: bug
 assignees: lmcmz, meilixiaozhang, zzggo
@@ -21,7 +21,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots or screen recordings to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
